@@ -1,5 +1,4 @@
 site_name: A New Design of Healthcare.gov
-extra_css: ['css/extra.css']
 pages:
   - [index.md, "Executive Summary"]
   - [introduction.md, Introduction]
