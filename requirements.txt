@@ -1,12 +1,12 @@
-Collecting freeze
-  Downloading freeze-1.0.9.tar.gz
-    Installing with cython
-    Installing without cython
-Collecting six (from freeze)
-  Downloading six-1.9.0-py2.py3-none-any.whl
-Installing collected packages: six, freeze
-
-  Running setup.py install for freeze
-    Installing with cython
-    Installing without cython
-Successfully installed freeze-1.0.9 six-1.9.0
+Jinja2==2.7.3
+Markdown==2.4.1
+MarkupSafe==0.23
+PyYAML==3.11
+argh==0.26.1
+freeze==1.0.9
+ghp-import==0.4.1
+mkdocs==0.11.1
+pathtools==0.1.2
+six==1.9.0
+watchdog==0.8.3
+wsgiref==0.1.2

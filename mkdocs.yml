@@ -1,2 +1,7 @@
-site_name: CS5704 | Project 2 | Group 3
+site_name: A New Design of Healthcare.gov
 extra_css: ['css/extra.css']
+pages:
+  - [index.md, "Executive Summary"]
+  - [introduction.md, Introduction]
+  - [architecture.md, Architecture]
+  - [conclusion.md, Conclusion]
