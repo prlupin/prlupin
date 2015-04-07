@@ -18,15 +18,15 @@ The HealthCare.gov provides American individual and families another way to purc
 
 Per the basic requirements, the HealthCare.gov is a network-centric software system. Its system architecture is complex and could not be described from a single viewpoint. The Department of Defense Architecture Framework (DoDAF) models are used to create the multiple viewpoints architecture for this system. By using DoDAF models, the system architecture could be represented by multiple viewpoints. In this ASD, the architecture of the HealthCare.gov is described using following viewpoints:
 
-|  Operational Viewpoint (OV)
+-  Operational Viewpoint (OV)
 	- OV-1: High-Level Operational Concept Graphic
 	- OV-2: Operational Resource Flow Description
 	- OV-5b: Operational Activity
-|  System Viewpoint (SV)
+-  System Viewpoint (SV)
 	- SV-1: Systems Interface Description
 	- SV-2: Systems Resource Flow Description
 	- SV-4: Systems Functionality Description
-|  Service Viewpoint (SvcV)
+-  Service Viewpoint (SvcV)
 	- SvcV-1: Services Context Description
 	- SvcV-2: Services Resource Flow Description
 	- SvcV-4: Services Functionality Description
